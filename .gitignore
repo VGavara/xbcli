@@ -1,0 +1,13 @@
+.nuget/
+.vscode/
+artifacts/
+[Bb]in/
+[Oo]bj/
+packages/
+_ReSharper.*
+docs/*.xml
+*.sln.ide
+*.suo
+*.user
+*.userprefs
+*DS_Store
