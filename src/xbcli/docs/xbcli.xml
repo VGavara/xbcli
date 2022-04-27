@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>xbcli</name>
+    </assembly>
+    <members>
+        <member name="T:XBcli.Program">
+            <summary>Program class.</summary>
+        </member>
+        <member name="M:XBcli.Program.Main">
+            <summary>Program entry point.</summary>
+        </member>
+    </members>
+</doc>
