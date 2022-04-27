@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <CodeAnalysisRuleSet>$(SolutionDir)src/xbcli/.stylecop/stylecop.ruleset.xml</CodeAnalysisRuleSet>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <DocumentationFile>$(SolutionDir)docs/xbcli.xml</DocumentationFile>
